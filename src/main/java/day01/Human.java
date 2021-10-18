@@ -17,4 +17,5 @@ public class Human {
     public int getAge() {
         return age;
     }
+
 }

@@ -17,6 +17,6 @@ public class HumanMain {
 
         Human human = new Human(name, age);
 
-        System.out.println("A személy adatai:  név: "+human.getName()+", életkora: "+human.getAge());
+        System.out.println("\nA személy adatai:  név: "+human.getName()+", életkora: "+human.getAge());
     }
 }
