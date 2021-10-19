@@ -1,7 +1,5 @@
 package day02;
 
-import day01.Human;
-
 import java.util.Scanner;
 
 public class Geometry {
